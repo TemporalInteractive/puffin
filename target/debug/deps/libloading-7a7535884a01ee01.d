@@ -1,0 +1,11 @@
+C:\Dev\puffin\target\debug\deps\liblibloading-7a7535884a01ee01.rmeta: C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\lib.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\changelog.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\mod.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\windows\mod.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\util.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\error.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\safe.rs
+
+C:\Dev\puffin\target\debug\deps\libloading-7a7535884a01ee01.d: C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\lib.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\changelog.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\mod.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\windows\mod.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\util.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\error.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\safe.rs
+
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\lib.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\changelog.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\mod.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\windows\mod.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\util.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\error.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\safe.rs:

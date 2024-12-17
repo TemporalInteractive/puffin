@@ -1,0 +1,10 @@
+C:\Dev\puffin\target\debug\deps\libecolor-f4601901889a7473.rmeta: C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src/lib.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\color32.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hsva_gamma.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hsva.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\rgba.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hex_color_runtime.rs
+
+C:\Dev\puffin\target\debug\deps\ecolor-f4601901889a7473.d: C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src/lib.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\color32.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hsva_gamma.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hsva.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\rgba.rs C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hex_color_runtime.rs
+
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src/lib.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\color32.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hsva_gamma.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hsva.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\rgba.rs:
+C:\Users\jason\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.30.0\src\hex_color_runtime.rs:
